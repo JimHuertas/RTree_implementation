@@ -1,0 +1,117 @@
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\RTreeVisualization.exe.config
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\RTreeVisualization.exe
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\RTreeVisualization.pdb
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.csprojResolveAssemblyReference.cache
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\MainWindow.baml
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\MainWindow.g.cs
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\App.g.cs
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization_MarkupCompile.cache
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.g.resources
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.Properties.Resources.resources
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.GenerateResource.Cache
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.exe
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.pdb
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\SpatialIndexStructures.dll
+C:\Users\Rezanina\Documents\Visual Studio 2013\Projects\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\SpatialIndexStructures.pdb
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\RTreeVisualization.exe.config
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.exe
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.pdb
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\RTreeVisualization.exe
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\RTreeVisualization.pdb
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\SpatialIndexStructures.dll
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\SpatialIndexStructures.pdb
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.csprojResolveAssemblyReference.cache
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\MainWindow.baml
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\App.baml
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\MainWindow.g.cs
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\App.g.cs
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization_MarkupCompile.cache
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.g.resources
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.Properties.Resources.resources
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.GenerateResource.Cache
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\RTreeVisualization.exe.config
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.exe
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.pdb
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\StructureWindow.baml
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\StructureWindow.g.cs
+C:\Users\emre0366\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.AboutWindow.resources
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\RTreeVisualization.exe
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\RTreeVisualization.pdb
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\SpatialIndexStructures.dll
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\SpatialIndexStructures.pdb
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.csprojResolveAssemblyReference.cache
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\MainWindow.baml
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\StructureWindow.baml
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\App.baml
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\MainWindow.g.cs
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\StructureWindow.g.cs
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\App.g.cs
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization_MarkupCompile.cache
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.g.resources
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.AboutWindow.resources
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.Properties.Resources.resources
+C:\Users\Rezanina\Dropbox\Projekty\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.GenerateResource.Cache
+C:\Users\Emil\Documents\GitHub\RTree\IDSDSPracticePartGUI\RTreeVisualization\bin\Debug\RTreeVisualization.exe.config
+C:\Users\Emil\Documents\GitHub\RTree\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.exe
+C:\Users\Emil\Documents\GitHub\RTree\IDSDSPracticePartGUI\RTreeVisualization\obj\Debug\RTreeVisualization.pdb
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\bin\Debug\RTreeVisualization.exe.config
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.exe
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.pdb
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\bin\Debug\RTreeVisualization.exe
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\bin\Debug\RTreeVisualization.pdb
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\bin\Debug\SpatialIndexStructures.dll
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\bin\Debug\SpatialIndexStructures.pdb
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\MainWindow.baml
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\StructureWindow.baml
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\App.baml
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\MainWindow.g.cs
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\StructureWindow.g.cs
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\App.g.cs
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\RTreeVisualization_MarkupCompile.cache
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.g.resources
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.AboutWindow.resources
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.Properties.Resources.resources
+C:\Users\Emil\Documents\GitHub\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.GenerateResource.Cache
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.AssemblyReference.cache
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\MainWindow.baml
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\StructureWindow.baml
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\App.baml
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\MainWindow.g.cs
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\StructureWindow.g.cs
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\App.g.cs
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization_MarkupCompile.cache
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.g.resources
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.AboutWindow.resources
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.Properties.Resources.resources
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.GenerateResource.cache
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.CoreCompileInputs.cache
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.exe
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.pdb
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\bin\Debug\RTreeVisualization.exe.config
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\bin\Debug\RTreeVisualization.exe
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\bin\Debug\RTreeVisualization.pdb
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\bin\Debug\SpatialIndexStructures.dll
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\bin\Debug\SpatialIndexStructures.pdb
+D:\Documentos\UNI\VI semestre\EDA\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.CopyComplete
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\bin\Debug\RTreeVisualization.exe.config
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\bin\Debug\RTreeVisualization.exe
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\bin\Debug\RTreeVisualization.pdb
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\bin\Debug\SpatialIndexStructures.dll
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\bin\Debug\SpatialIndexStructures.pdb
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.AssemblyReference.cache
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\MainWindow.baml
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\StructureWindow.baml
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\App.baml
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\MainWindow.g.cs
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\StructureWindow.g.cs
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\App.g.cs
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\RTreeVisualization_MarkupCompile.cache
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.g.resources
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.AboutWindow.resources
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.Properties.Resources.resources
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.GenerateResource.cache
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.csproj.CoreCompileInputs.cache
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.exe
+E:\_3A_2\Estructura de Datos Avanzadas\RTree\RTreeVisualization\obj\Debug\RTreeVisualization.pdb

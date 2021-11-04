@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3ab4941-44ab-44f8-b963-b7f1d618d9cb": {
+      "ProjectGuid": "d3ab4941-44ab-44f8-b963-b7f1d618d9cb",
+      "DisplayName": "RTreeVisualization",
+      "ColorIndex": 0
+    },
+    "ac97f457-aad7-483f-a692-d10f217e2c94": {
+      "ProjectGuid": "ac97f457-aad7-483f-a692-d10f217e2c94",
+      "DisplayName": "SpatialIndexStructures",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

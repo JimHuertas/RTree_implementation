@@ -1,0 +1,71 @@
+﻿<Window x:Class="RTreeVisualization.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+        Title="RTree" Height="600" Width="800" ResizeMode="NoResize"
+        Icon="Resources/bear.ico" WindowStartupLocation="CenterScreen">
+
+    <StackPanel VerticalAlignment="Stretch">
+        <Menu Height="22" >
+            <MenuItem Header="Agregar">
+                <MenuItem Name="GenerateMenuItem" Header="_Agregar punto" 
+                          Click="GenerateMenuItem_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Resources/generate.ico" Style="{StaticResource IconStyle}"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Name="GenerateCountItem" Header="Agregar 100 puntos" 
+                          Click="GenerateCountItem_OnClick">
+                    <MenuItem.Icon>
+                        <Image Source="Resources/generateCount.ico" Style="{StaticResource IconStyle}"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Visualizacion">
+                <MenuItem Name="CurrentPaintMenuItem" Header="Dibujar cuadricula" 
+                           Click="CurrentPaintMenuItem_OnClick"
+                          IsEnabled="False">
+                    <MenuItem.Icon>
+                        <Image Source="Resources/palete.ico" Style="{StaticResource IconStyle}"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="_RTree">
+                <MenuItem Name="RangeSearchMenuItem" Header="Busqueda por Rango" Click="RangeSearchMenuItem_OnClick">
+                    <MenuItem.Icon>
+                        <Image Source="Resources/rangeSearch.ico" Style="{StaticResource IconStyle}"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Name="ShowStructureMenuItem" Header="Mostrar estructura del arbol" Click="ShowStructureMenuItem_OnClick">
+                    <MenuItem.Icon>
+                        <Image Source="Resources/structure.ico" Style="{StaticResource IconStyle}"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Name="ResetMenuItem" Header="Eliminar todo" Click="ResetMenuItem_OnClick">
+                    <MenuItem.Icon>
+                        <Image Source="Resources/restart.ico" Style="{StaticResource IconStyle}"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+
+        <Grid Height="547" 
+              Background="White">
+            <Canvas Name="RTreeCanvas"
+                Background="White"
+                Margin="0,0,0,40" Width="794" Height="507"
+                MouseLeftButtonDown="RTreeCanvas_OnMouseLeftButtonDown" 
+                MouseRightButtonDown="RTreeCanvas_OnMouseRightButtonDown"
+                MouseMove="RTreeCanvas_OnMouseMove">
+            </Canvas>
+            <Label HorizontalAlignment="Left" Height="29" Margin="10,509,0,0" VerticalAlignment="Top" Width="259"
+                   Content="Contador:"/>
+            <TextBox Name="GeometriesCounTextBox"
+                HorizontalAlignment="Left" Height="25" Margin="71,511,0,0" 
+                     TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="40"
+                     TextAlignment="Right" IsEnabled="False"/>
+        </Grid>
+
+    </StackPanel>
+</Window>
